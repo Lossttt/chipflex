@@ -1,0 +1,154 @@
+{
+    "essentieleoptions": [
+        {
+            "category": "Scheepstype",
+            "options": [
+                {
+                    "name": "Sloep",
+                    "price": 9000
+                },
+                {
+                    "name": "Kotter",
+                    "price": 12000
+                },
+                {
+                    "name": "Trawler",
+                    "price": 15000
+                },
+                {
+                    "name": "Catamaran",
+                    "price": 16000
+                }
+            ]
+        },
+        {
+            "category": "Romp",
+            "options": [
+                {
+                    "name": "Composiet",
+                    "price": 25000
+                },
+                {
+                    "name": "Epoxy",
+                    "price": 20000
+                },
+                {
+                    "name": "Glasvezel",
+                    "price": 20000
+                },
+                {
+                    "name": "Carbon",
+                    "price": 25000
+                },
+                {
+                    "name": "Polyester",
+                    "price": 20000
+                }
+            ]
+        },
+        {
+            "category": "Stuurinrichting",
+            "options": [
+                {
+                    "name": "Joystick",
+                    "price": 35000
+                },
+                {
+                    "name": "Wheel",
+                    "price": 30000
+                }
+            ]
+        },
+        {
+            "category": "Motortype",
+            "options": [
+                {
+                    "name": "Outboard",
+                    "price": 40000
+                },
+                {
+                    "name": "Pod",
+                    "price": 50000
+                },
+                {
+                    "name": "Diesel",
+                    "price": 50000
+                },
+                {
+                    "name": "Hybrid",
+                    "price": 50000
+                },
+                {
+                    "name": "Jet",
+                    "price": 60000
+                }
+            ]
+        }
+    ],
+    "extraoptions": [
+        {
+            "category": "Stoelen",
+            "options": [
+                {
+                    "name": "Ventilated seats",
+                    "price": 60000
+                },
+                {
+                    "name": "Memory seats",
+                    "price": 50000
+                }
+            ]
+        },
+        {
+            "category": "Navigatie",
+            "options": [
+                {
+                    "name": "Radar",
+                    "price": 2000.0
+                },
+                {
+                    "name": "Satellite radio",
+                    "price": 1500.0
+                },
+                {
+                    "name": "Autopilot",
+                    "price": 1000.0
+                },
+                {
+                    "name": "Fishfinder",
+                    "price": 500.0
+                }
+            ]
+        },
+        {
+            "category": "Comfort",
+            "options": [
+                {
+                    "name": "Generator",
+                    "price": 10000
+                },
+                {
+                    "name": "Washing machine",
+                    "price": 8000
+                },
+                {
+                    "name": "Airconditioning",
+                    "price": 15000
+                }
+            ]
+        },
+        {
+            "category": "Veiligheid",
+            "options": [
+                {
+                    "name": "Boat alarm",
+                    "price": 3000
+                },
+                {
+                    "name": "Life raft",
+                    "price": 5000
+                }
+            ]
+        }
+    ]
+}

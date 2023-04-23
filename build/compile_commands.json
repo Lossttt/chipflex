@@ -1,0 +1,7 @@
+[
+{
+  "directory": "B:/C/ChipFlex/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -IB:/C/ChipFlex/include -g -o CMakeFiles\\chipflex.dir\\src\\main.c.obj -c B:\\C\\ChipFlex\\src\\main.c",
+  "file": "B:\\C\\ChipFlex\\src\\main.c"
+}
+]
