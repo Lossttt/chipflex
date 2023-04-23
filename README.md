@@ -1,7 +1,7 @@
 
-# ChipFlex
+# ChipFlex by Berry and Lost
 
-Chip Flex is a terminal application specially designed to generate quotes for companies in the shipbuilding industry. It is automated, meaning it can perform certain tasks and calculations without user intervention.
+ChipFlex is a terminal application specially designed to generate quotes for companies in the shipbuilding industry. It is automated, meaning it can perform certain tasks and calculations without user intervention.
 
 The application was originally developed as an assignment from The Hague University of Applied Sciences, where it was programmed in Java. However, to gain additional knowledge in C, I decided to re-develop the application in this language with the help of berry.
 
